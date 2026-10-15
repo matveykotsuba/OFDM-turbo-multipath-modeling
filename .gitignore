@@ -1,0 +1,9 @@
+results/
+slprj/
+backups/
+old/
+*.asv
+*.m~
+*.mex*
+*.slxc
+matlab_crash_dump*
